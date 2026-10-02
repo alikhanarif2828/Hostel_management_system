@@ -271,7 +271,7 @@ def login_view():
     with col2:
         st.info(
             "🔑 **System Access & Governance**\n\n"
-            "- **Super Admin / Owner:** `OWNER001` / `Owner@1234`\n"
+            "- **Super Admin / Owner:** Authorized administrators only.\n"
             "- **Residents:** View rent due notices, payment receipts, and issue maintenance complaints.\n"
             "- **Employees:** View assigned floor duties, tasks, and monthly salary slips.\n"
             "- **Offboarding:** Leaving residents or employees can be removed cleanly by the Owner."
